@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-clash-display: "Clash Display";
+  --font-plus-jakarta-sans: "Plus Jakarta Sans";
+
+  /* font sizes */
+  --font-size-xs-8: 11.8px;
+  --font-size-lg: 18px;
+  --font-size-14xl-3: 33.3px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-tomato: #ff5555;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+}
